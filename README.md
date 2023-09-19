@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>
-    This is me <b>Juan Manuel Martínez</b>, a final year <b>Full Stack</b> graduate from <a href="https://www.iit.ac.lk/"> <b>CoderHouse</b>, Argentina</a>.
-    I would be pleased to work as a <b>Full-Stack Software Development projects,</b>&nbsp; <b>BPM and/or BPMN developer</b>&nbsp; and <b> Process Enthusiast.</b> 
+    This is me <b>Juan Manuel Martínez</b>, by the end of 2023 I will be a <b>Full Stack</b> graduated from <a href="https://www.iit.ac.lk/"> <b>CoderHouse</b>, Argentina</a>.
+    I would be pleased to work as a <b>Full-Stack Software Development projects, as well as </b>&nbsp; <b>BPM and/or BPMN developer</b>&nbsp;. I'm a <b> Process Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
