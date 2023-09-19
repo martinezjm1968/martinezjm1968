@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     This is me <b>Juan Manuel Martínez</b>, a final year <b>Full Stack</b> graduate from <a href="https://www.iit.ac.lk/"> <b>CoderHouse</b>, Argentina</a>.
-    I would be pleased <b>Full-Stack Software Developer,</b>&nbsp; <b>BPM and/or BPMN developer</b>&nbsp; and <b> Process Enthusiast.</b> 
+    I would be pleased to work as a <b>Full-Stack Software Development projects,</b>&nbsp; <b>BPM and/or BPMN developer</b>&nbsp; and <b> Process Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -15,9 +15,9 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🔭 I’m currently working on Fullstack Web Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Soccer, Tenis and Squash.
+- 👯  I’m willing to collaborate with Fullstack Web and Mobile Developement projects.
+- 💡 Contributing to Open Source Projects has always been a goal for me.
+- ⚡ Fun fact: I love Sports, especially Soccer, Tenis and Squash.
 <br>
 
 ---
